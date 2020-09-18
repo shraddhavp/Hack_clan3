@@ -1,4 +1,12 @@
-# Hack_clan3
+#  Team -Hack Clan
+
+# Team members
+
+**Contains 3 members**
+**Shraddha V. Prasad
+Pallavi Savant
+Sarikya S.M.**
+
 
 # Problem Statement
 Making education interesting:
