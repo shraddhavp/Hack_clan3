@@ -12,9 +12,8 @@ Sarikya S.M.<br>**
 Making education interesting:
 Uninteresting methods of teaching in public institutions cause young students to be easily bored which leads to a decrease in participation of children in schools(46% boys and 53% girls of the population eager to study) What is the solution, in your opinion, of uninteresting teaching methods in public schools? Hint: creatively design a digital education system.
 
-# Idea-> Happy-Go-Learning
+# Idea-> Happy-Go-Learning <p align="center"><img src="https://github.com/shraddhavp/Hack_clan3/blob/master/images/icon.png" align="right" width="40%" /></p>
 
-<p align="center"><img src="https://github.com/shraddhavp/Hack_clan3/blob/master/images/icon.png" align="right" width="40%" /></p>
 <br><br>
 <p align="center"><img width=35% src="https://media1.tenor.com/images/37fc501975d23bf9bae452244c238106/tenor.gif?itemid=15730167"></p>
 
