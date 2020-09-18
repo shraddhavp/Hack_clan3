@@ -21,25 +21,25 @@ It is an online learning  system.It mainly contains three modules-The first modu
 ### Admin:
  **1.** **Login**: Admin can log in using admin credentials.<br>
  **2.** **Assign new users:** Assign a user as new admin.<br>
- **3.** **Manage Faculty(Add/Remove):** Admin can manage faculties.
- **4.** **Manage Students(Add/Remove):** Admin can manage students.
+ **3.** **Manage Faculty(Add/Remove):** Admin can manage faculties.<br>
+ **4.** **Manage Students(Add/Remove):** Admin can manage students.<br>
 
 ### Students:
 **1.** **Login:** Students login system.
-**2.** **Courses dashboard:** Student’s can choose the courses they are interested in and enroll themselves.
-**3.** **Classes :** Students are shown the classes scheduled (Timetable).
-**4.** **Doubts clearing system:** Students can clear their doubts by discussing with respective teachers.
-**5.** **Notes:** Students can have their self notes.
-**6.** **Students interaction :** Students can interact with their fellow mates and discuss relevant topics.
+**2.** **Courses dashboard:** Student’s can choose the courses they are interested in and enroll themselves.<br>
+**3.** **Classes :** Students are shown the classes scheduled (Timetable).<br>
+**4.** **Doubts clearing system:** Students can clear their doubts by discussing with respective teachers.<br>
+**5.** **Notes:** Students can have their self notes.<br>
+**6.** **Students interaction :** Students can interact with their fellow mates and discuss relevant topics.<br>
 
 
 ### Teachers or Professor:
-**1.** **Login:** Teachers login through their respective credentials.
-**2.** **Calendar:** Teachers can view their scheduled classes on their dashboard.
-**3.** **Student Feedback System:** Teachers can give student’s feedback,projects submitted by student feedback.
-**4.** **Training management System:** Courses to help teachers grow.
-**5.** **Mentorship/leadership program:** Teachers can have mentors as well to guide them on        their performance.
-**6.** **Teacher feedback system:** Teachers can view feedback given to them by students.
-**7.** **Personal Concierge:** Teachers can raise issues they are facing,get immediate assistance and get experts help.
+**1.** **Login:** Teachers login through their respective credentials.<br>
+**2.** **Calendar:** Teachers can view their scheduled classes on their dashboard.<br>
+**3.** **Student Feedback System:** Teachers can give student’s feedback,projects submitted by student feedback.<br>
+**4.** **Training management System:** Courses to help teachers grow.<br>
+**5.** **Mentorship/leadership program:** Teachers can have mentors as well to guide them on their performance.<br>
+**6.** **Teacher feedback system:** Teachers can view feedback given to them by students.<br>
+**7.** **Personal Concierge:** Teachers can raise issues they are facing,get immediate assistance and get experts help.<br>
 
 
