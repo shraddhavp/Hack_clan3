@@ -3,7 +3,7 @@
 
 # Team members
 
-**Contains 3 members**
+**Contains 3 members-**<br>
 **Shraddha V. Prasad<br>
 Pallavi Savant<br>
 Sarikya S.M.<br>**
