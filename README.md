@@ -3,9 +3,9 @@
 # Team members
 
 **Contains 3 members**
-**Shraddha V. Prasad
-Pallavi Savant
-Sarikya S.M.**
+**Shraddha V. Prasad<br>
+Pallavi Savant<br>
+Sarikya S.M.<br>**
 
 
 # Problem Statement
@@ -31,6 +31,7 @@ It is an online learning  system.It mainly contains three modules-The first modu
  **2.** **Assign new users:** Assign a user as new admin.<br>
  **3.** **Manage Faculty(Add/Remove):** Admin can manage faculties.<br>
  **4.** **Manage Students(Add/Remove):** Admin can manage students.<br>
+ **5**  **Manage Departments,Sections,Courses:** Admin can manage all the departments,different sections,and courses for both Teacher and Student<br>
 
 ### Students:
 **1.** **Login:** Students login system.<br>
@@ -48,15 +49,21 @@ It is an online learning  system.It mainly contains three modules-The first modu
    ** Assigned work: Students can view assigned work to them.<br>
 
    ** Due date notification: This will notify the due date to the student on dashboard as well as send an email.<br>
+**8.**  **Student Performance Dashboard :** Check his/her performance in tests,attendance in this Dashboard 
 
 
 ### Teachers or Professor:
 **1.** **Login:** Teachers login through their respective credentials.<br>
-**2.** **Calendar:** Teachers can view their scheduled classes on their dashboard.<br>
-**3.** **Student Feedback System:** Teachers can give student’s feedback,projects submitted by student feedback.<br>
-**4.** **Training management System:** Courses to help teachers grow.<br>
-**5.** **Mentorship/leadership program:** Teachers can have mentors as well to guide them on their performance.<br>
-**6.** **Teacher feedback system:** Teachers can view feedback given to them by students.<br>
-**7.** **Personal Concierge:** Teachers can raise issues they are facing,get immediate assistance and get experts help.<br>
+**2.** **Student Count** The teacher can check the number of students in his class<br>
+**3.** **Upload Marks:** Upload the marks for student for tests and assignment<br>
+**4.** **Calendar:** Teachers can view their scheduled classes on their dashboard.<br>
+**5.** **Student Feedback System:** Teachers can give student’s feedback,projects submitted by student feedback.<br>
+**6.** **Training management System:** Courses to help teachers grow.<br>
+**7.** **Mentorship/leadership program:** Teachers can have mentors as well to guide them on their performance.<br>
+**8.** **Teacher feedback system:** Teachers can view feedback given to them by students.<br>
+**9.** **Personal Concierge:** Teachers can raise issues they are facing,get immediate assistance and get experts help.<br>
+**10.** **Curriculum:** Teachers can see the class,class name and respective description of classes they have scheduled.<br>
+**11.** **Teachers certification:** Teachers can view their achievements over here.<br>
+
 
 
