@@ -10,17 +10,19 @@ Uninteresting methods of teaching in public institutions cause young students to
 It is an online learning  system.It mainly contains three modules-The first module is Admin Module which deals with all the administrative activities. Admin can control all actions of the Learning management system. Second Module is the student module. The registered students can login to see their dashboard. There are some other features available to the students also. Third module is the teacher module with different features for the teacher as well.
 
 # Actors on the system
-1.Admin
-2.Student
-3.Professor/Teacher
+<ul>
+  <li>Admin</li>
+<li>Student</li>
+<li>Professor/Teacher</li>
+ </ul>
 
 # Overview of the System
 ## Modules:
 ### Admin:
- **1.** **Login**: Admin can log in using admin credentials.</ul>
- **2.** **Assign new users:** Assign a user as new admin.</ul>
- **3.** **Manage Faculty(Add/Remove):** Admin can manage faculties.</ul>
- **4.** **Manage Students(Add/Remove):** Admin can manage students.</ul>
+ **1.** **Login**: Admin can log in using admin credentials.<br>
+ **2.** **Assign new users:** Assign a user as new admin.<br>
+ **3.** **Manage Faculty(Add/Remove):** Admin can manage faculties.
+ **4.** **Manage Students(Add/Remove):** Admin can manage students.
 
 ### Students:
 **1.** **Login:** Students login system.
