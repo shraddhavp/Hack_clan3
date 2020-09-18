@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>Profile</title>
+</head>
+<body background="back.jpg">
+    <center><h1>PROFILE</h1>
+    <br><br>
+    
+
+        <form method="POST" action="insert.php">
+
+        <label style="font-family: Verdana, Geneva, Tahoma, sans-serif">USN:</label><br>
+        <input type="text" name="usn" required /><br><br>
+        <label style="font-family: Verdana, Geneva, Tahoma, sans-serif" >NAME:</label><br>
+        <input type="text" name="name"  required/><br><br>
+        <label style="font-family: Verdana, Geneva, Tahoma, sans-serif">DATE OF BIRTH</label><br>
+        <input type="date" name="date" required/><br><br>
+        <label style="font-family: Verdana, Geneva, Tahoma, sans-serif">PHONE</label><br>
+        <input type="phone" name="phone" required/><br><br>
+        <label style="font-family: Verdana, Geneva, Tahoma, sans-serif">EMAIL</label><br>
+        <input type="email" name="email" required  /><br><br>
+        <label style="font-family: Verdana, Geneva, Tahoma, sans-serif">DEPARTMENT_NO</label><br>
+        <input type="number" name="dept" min="0" max="20" required /><br><br>
+        <label style="font-family: Verdana, Geneva, Tahoma, sans-serif">GENDER</label><br>
+            <input type="radio" name="gender" value="male">Male<br>
+            <input type="radio" name="gender" value="female">Female<br>
+            <input type="radio" name="gender" value="other">Other<br>
+            <button type="submit">INSERT</button></form>
+        </form>
+        </div></center>
+        <div>
+        
+                
+    </body>
+</html>
