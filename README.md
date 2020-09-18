@@ -19,7 +19,7 @@ It is an online learning  system.It mainly contains three modules-The first modu
 # Overview of the System
 ## Modules:
 ### Admin:
- **1.** **Login**: Admin can log in using admin credentials.<br>
+ **1.** **Login:** Admin can log in using admin credentials.<br>
  **2.** **Assign new users:** Assign a user as new admin.<br>
  **3.** **Manage Faculty(Add/Remove):** Admin can manage faculties.<br>
  **4.** **Manage Students(Add/Remove):** Admin can manage students.<br>
@@ -31,7 +31,7 @@ It is an online learning  system.It mainly contains three modules-The first modu
 **4.** **Doubts clearing system:** Students can clear their doubts by discussing with respective teachers.<br>
 **5.** **Notes:** Students can have their self notes.<br>
 **6.** **Students interaction :** Students can interact with their fellow mates and discuss relevant topics.<br>
-**6.** **Project/assignments submission:
+**7.** **Project/assignments submission:**
 
    ** Upload projects/assignments: Students can upload and submit their work.<br>
 
