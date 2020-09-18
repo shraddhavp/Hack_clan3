@@ -25,7 +25,7 @@ It is an online learning  system.It mainly contains three modules-The first modu
  **4.** **Manage Students(Add/Remove):** Admin can manage students.<br>
 
 ### Students:
-**1.** **Login:** Students login system.
+**1.** **Login:** Students login system.<br>
 **2.** **Courses dashboard:** Student’s can choose the courses they are interested in and enroll themselves.<br>
 **3.** **Classes :** Students are shown the classes scheduled (Timetable).<br>
 **4.** **Doubts clearing system:** Students can clear their doubts by discussing with respective teachers.<br>
