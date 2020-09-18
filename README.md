@@ -25,6 +25,12 @@ It is an online learning  system.It mainly contains three modules-The first modu
  </ul>
 
 # Overview of the System
+### Technology Stack used
+**1.** HTML
+**2.** CSS
+**3.** Bootstrap
+**4.** PHP
+**5.** SQL Database
 ## Modules:
 ### Admin:
  **1.** **Login:** Admin can log in using admin credentials.<br>
