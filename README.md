@@ -31,6 +31,15 @@ It is an online learning  system.It mainly contains three modules-The first modu
 **4.** **Doubts clearing system:** Students can clear their doubts by discussing with respective teachers.<br>
 **5.** **Notes:** Students can have their self notes.<br>
 **6.** **Students interaction :** Students can interact with their fellow mates and discuss relevant topics.<br>
+**6.** **Project/assignments submission:
+
+    ** Upload projects/assignments: Students can upload and submit their work.<br>
+
+    ** View submitted projects/assignments: Students can view their submitted  work.<br>
+
+    ** Assigned work: Students can view assigned work to them.<br>
+
+     ** Due date notification: This will notify the due date to the student on dashboard as well as send an email.<br>
 
 
 ### Teachers or Professor:
