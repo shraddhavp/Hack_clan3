@@ -1,4 +1,4 @@
-#  Team -Hack Clan
+#  Team - Hack Clan
 <p align="center"><img src="https://github.com/shraddhavp/Hack_clan3/blob/master/images/icon.png" align="right" width="40%" /></p>
 
 # Team members
