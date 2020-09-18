@@ -44,7 +44,7 @@ It is an online learning  system.It mainly contains three modules-The first modu
 **2.** **Courses dashboard:** Student’s can choose the courses they are interested in and enroll themselves.<br>
 **3.** **Classes :** Students are shown the classes scheduled (Timetable).<br>
 **4.** **Doubts clearing system:** Students can clear their doubts by discussing with respective teachers.<br>
-**5.** **Notes:** Students can have their self notes.<br>
+**5.** **Notes and REcord sessions:** Students can have their self notes. and also record the important classes or sessions of the class <br>
 **6.** **Students interaction :** Students can interact with their fellow mates and discuss relevant topics.<br>
 **7.** **Project/assignments submission:**
 
